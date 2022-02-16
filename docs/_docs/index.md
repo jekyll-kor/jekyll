@@ -25,7 +25,7 @@ See [Requirements]({{ '/docs/installation/#requirements' | relative_url }}) for 
 
 Jekyll은 다음을 필요로 합니다:
 
-* 버전 **{{ site.data.ruby.min_version }} 이상의 Ruby
+* 버전 **{{ site.data.ruby.min_version }}** 이상의 Ruby
 * RubyGems
 * GCC와 Make
 
